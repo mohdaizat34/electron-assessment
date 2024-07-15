@@ -1,0 +1,24 @@
+
+$background-color: #f8f9fa;
+$header-color: #343a40;
+
+body {
+  background-color: $background-color;
+}
+
+
+header {
+  background-color: $header-color;
+  width: 100vw;
+}
+
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+
