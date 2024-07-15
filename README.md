@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AngularElectron
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.12.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# electron-assessment
+>>>>>>> d00a116a5a1b87ec0f7289299731776bf50f4fcd
